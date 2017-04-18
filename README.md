@@ -11,10 +11,10 @@ The roadmaps are built using [draw.io](https://www.draw.io/). The main project f
 To modify the roadmaps:
 
 1. Fork the repository
-1. Open [draw.io](https://www.draw.io/). **File** -> **Open from** -> **GitHub** -> *Select the fork you made in the previous step.*
+1. Open [draw.io](https://www.draw.io/). **File** -> **Open from** -> **GitHub** -> *Select the fork you made in the previous step (you can also choose in which **branch** to do the changes).*
 1. Do your changes via the draw.io interface. Save (commit) once in a while.
 
-Finally, open a pull request with your changes. Please *upload an image* of the roadmap in the pull request description, for an easier review process.
+Finally, open a pull request with your changes. Please *upload an image* of the updated roadmap in the pull request description (for easier review process, [see example](https://github.com/superKalo/frontend-developer-roadmap/pull/1)).
 
 # TODO
 - [ ] Add the roadmap initial (rough) structure
