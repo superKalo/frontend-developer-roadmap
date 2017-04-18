@@ -1,5 +1,7 @@
 # Front-end Developer Roadmap
 
+![Roadmap](http://i.imgur.com/vic7xbA.jpg)
+
 Roadmap to becoming a front-end developer in 2017!
 
 You can (soon be able to) find here the technologies that you would want to adopt in order to become a junior, a middle or a senior level front-end developer.
